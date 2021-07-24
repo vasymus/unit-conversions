@@ -1,16 +1,16 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "vasymus/unit-conversions",
+    "description": "Perform unit conversions in PHP.",
     "keywords": [
-        ":vendor_name",
-        "package_slug"
+        "vasymus",
+        "unit-conversions"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/vasymus/unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Vasyl Zhdankin",
+            "email": "vasymuszchd@mail.ru",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Vasymus\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Vasymus\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
