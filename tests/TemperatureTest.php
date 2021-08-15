@@ -7,7 +7,9 @@ use Vasymus\UnitConversions\Temperature;
 
 class TemperatureTest extends TestCase
 {
-    /** @test */
+    /**
+     * @test
+     */
     public function it_can_converts_celsius_to_fahrenheit()
     {
         $fahrenheit = Temperature::fromCelsius(100)->toFahrenheit();
