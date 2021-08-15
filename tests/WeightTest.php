@@ -7,7 +7,9 @@ use Vasymus\UnitConversions\Weight;
 
 class WeightTest extends TestCase
 {
-    /** @test */
+    /**
+     * @test
+     */
     public function it_can_converts_kilograms_to_lgs()
     {
         $lbs = Weight::fromKilograms(100)->toLbs();
