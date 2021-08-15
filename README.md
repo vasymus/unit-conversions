@@ -1,8 +1,8 @@
 # Perform unit conversions in PHP.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/vasymus/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/vasymus/unit-conversions)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/vasymus/unit-conversions/run-tests?label=tests)](https://github.com/vasymus/unit-conversions/actions?query=workflow%3ATests+branch%main)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/vasymus/unit-conversions/Check%20&%20fix%20styling?label=code%20style)](https://github.com/vasymus/unit-conversions/actions?query=workflow%3A"Check+%26+fix+styling"+branch%main)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/vasymus/unit-conversions/run-tests?label=tests)](https://github.com/vasymus/unit-conversions/actions?query=workflow%3ATests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/vasymus/unit-conversions/Check%20&%20fix%20styling?label=code%20style)](https://github.com/vasymus/unit-conversions/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/vasymus/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/vasymus/unit-conversions)
 
 ---
