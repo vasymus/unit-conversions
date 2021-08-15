@@ -4,7 +4,6 @@ namespace Vasymus\UnitConversions\Tests;
 
 use PHPUnit\Framework\TestCase;
 use Vasymus\UnitConversions\Temperature;
-use Vasymus\UnitConversions\Weight;
 
 class TemperatureTest extends TestCase
 {
