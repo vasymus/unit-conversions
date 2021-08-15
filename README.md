@@ -27,8 +27,8 @@ composer require vasymus/unit-conversions
 ## Usage
 
 ```php
-$unit-conversions = new Vasymus\UnitConversions();
-echo $unit-conversions->echoPhrase('Hello, Vasymus!');
+$unitConversions = new Vasymus\UnitConversions();
+echo $unitConversions->echoPhrase('Hello, Vasymus!');
 ```
 
 ## Testing
